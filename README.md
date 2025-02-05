@@ -1,4 +1,16 @@
 # Math-239
+<div align="right">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=pineda0021.pineda0021" />
+</div>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Edward+Pineda-Castro!;" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Mathematics Professor at Los Angeles City College</h3>
+
+<br/>
+
 <p>
     <strong>Math 239: Applied Data Science</strong> is based on material developed by 
     Dr. Olga Korosteleva from the Department of Mathematics and Statistics at 

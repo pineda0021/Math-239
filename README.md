@@ -1,10 +1,10 @@
 # Math-239
 <div align="right">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=pineda0021.pineda0021" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=pineda0021.pineda0021&reset=true" />
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+Math+239+Applied+Data+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+Math+239;Applied+Data+Science" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Mathematics Professor at Los Angeles City College</h3>

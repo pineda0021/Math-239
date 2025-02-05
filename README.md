@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+Math+239;Applied+Data+Science" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Mathematics Professor at Los Angeles City College</h3>
+<h3 align="center">Edward Pineda-Castro Professor of Mathematics and Statistical Data Analytics at Los Angeles City College</h3>
 <br/>
 
 <p>
